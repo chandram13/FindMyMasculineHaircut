@@ -2,7 +2,7 @@
 class MaleHaircuts:
 
 fun malehaircutTypes(){
-    haircut = ""
+    let haircut = input()
     if haircut == "Side part":
     print("Good for men who want a classic look or might have thinning hair.")
     if haircut == "Mohawk":
